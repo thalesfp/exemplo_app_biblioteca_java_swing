@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/interfaces/InterfaceCliente.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/controllers/ControllerLivros.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/interfaces/InterfaceLivroFormulario.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/modelos/Pedido.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/modelos/Cliente.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/interfaces/InterfaceLivro.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/modelos/ItemPedido.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/interfaces/InterfaceClienteFormulario.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/controllers/ControllerPedidos.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/interfaces/InterfacePedidoFormulario.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/modelos/Endereco.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/modelos/Livro.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/database/Database.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/controllers/ControllerClientes.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/interfaces/InterfacePedido.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/Principal.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/interfaces/InterfacePrincipal.java</file>
+            <file>file:/Users/thales/NetBeansProjects/Livraria/src/livraria/Feed.java</file>
+        </group>
+    </open-files>
+</project-private>
